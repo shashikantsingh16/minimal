@@ -8,7 +8,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shashikantsingh16/repo_testing)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="/assets/img/logo.png"/></center>
 
 ---
 ### Financial-Models-Numerical-Methods (Demo Page Content)
@@ -20,4 +20,4 @@ This is just a collection of topics and algorithms that in my opinion are intere
 It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
 The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="/assets/img/logo.png"/></center>
