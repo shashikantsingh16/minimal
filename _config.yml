@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Shashi Kant Singh </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/shashikantsingh1/">LinkedIn</a> |
+  <a href="https://github.com/shashikantsingh16">GitHub</a>
+  
+  <br>
+  I am learning the data science, Artificial Learning and Machine Learning and Deep Learning.  
+  Worked on the other microservices which was part of the backend E-Commerce application.
+  Working in Retail / E-Com and Supply chain domain from past 11 years. 
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
